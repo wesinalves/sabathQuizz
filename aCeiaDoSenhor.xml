@@ -1,0 +1,203 @@
+<Quizz>
+  <title>Quizz - A Ceia do Senhor</title>
+  <questions>
+    <question>
+      <number>Pergunta 1</number>
+      <description>Na igreja medieval, quem poderia participar da Santa Ceia?</description>
+      <answers>
+        <answer>
+          <description>Apenas o Clero</description>
+          <value>true</value>
+        </answer>
+        <answer>
+          <description>Todo mundo</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>Os monges</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>Apenas os leigos</description>
+          <value>false</value>
+        </answer>
+      </answers>
+    </question>
+    <question>
+      <number>Pergunta 2</number>
+      <description>Como Adventistas, Cremos que a Ceia do Senhor é?</description>
+      <answers>
+        <answer>
+          <description>uma simples cerimônia</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>um culto normal</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>Um memorial do sacrifício de Cristo</description>
+          <value>true</value>
+        </answer>
+        <answer>
+          <description>Um evento qualquer</description>
+          <value>false</value>
+        </answer>
+      </answers>
+    </question>
+    <question>
+      <number>Pergunta 3</number>
+      <description>Quantas ceias devem ter ao longo do ano?</description>
+      <answers>
+        <answer>
+          <description>1, apenas no final do ano</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>2, uma por semestre</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>3, em cada semana de oração</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>4, em cada 12º sábado do trimestre.</description>
+          <value>true</value>
+        </answer>        
+      </answers>
+    </question>
+    <question>
+      <number>Pergunta 4</number>
+      <description>Quem pode participar da Ceia da IASD?</description>
+      <answers>
+        <answer>
+          <description>Somente membros batizados</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>Somente membros batizados a 1 ano</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>Todos os membros, batizados ou não</description>
+          <value>true</value>
+        </answer>
+        <answer>
+          <description>somente os líderes da igreja</description>
+          <value>false</value>
+        </answer>
+      </answers>
+    </question>
+    <question>
+      <number>Pergunta 5</number>
+      <description>Quem pode dirigir a cerimônia?</description>
+      <answers>
+        <answer>
+          <description>Pastores e Anciãos ordenados</description>
+          <value>true</value>
+        </answer>
+        <answer>
+          <description>1º Ancião e Ministério da Mulher</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>1º Ancião e Diretor Jovem</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>Anciãos e Diáconos</description>
+          <value>false</value>
+        </answer>
+      </answers>
+    </question>
+    <question>
+      <number>Pergunta 6</number>
+      <description>O que fazer com a sobra do material?</description>
+      <answers>
+        <answer>
+          <description>Pode ser ingerido normalmente</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>Consumir após 7 dias</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>Consumir após 3 dias</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>Descartar reverentemente</description>
+          <value>true</value>
+        </answer>
+      </answers>
+    </question>
+    <question>
+      <number>Pergunta 7</number>
+      <description>As crianças podem participar da cerimônia?</description>
+      <answers>
+        <answer>
+          <description>Sim, livremente</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>Sim, com a presença de mãe</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>Sim, com a presença do pai</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>Não, apenas observando e aprendendo acerca</description>
+          <value>true</value>
+        </answer>
+      </answers>
+    </question>
+    <question>
+      <number>Pergunta 8</number>
+      <description>A Santa Ceia deve representar</description>
+      <answers>
+        <answer>
+          <description>Um período de tristeza</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>Uma ocasião festiva</description>
+          <value>true</value>
+        </answer>
+        <answer>
+          <description>Um período de melancolia</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>Nenhuma das alternativas anteriores</description>
+          <value>false</value>
+        </answer>
+      </answers>
+    </question>
+    <question>
+      <number>Pergunta 9</number>
+      <description>A preparacao da Ceia do Senhor envolve</description>
+      <answers>
+        <answer>
+          <description>Exame de consciencia</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>arrependimento</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>confissao</description>
+          <value>false</value>
+        </answer>
+        <answer>
+          <description>todas as anteriores</description>
+          <value>true</value>
+        </answer>
+      </answers>
+    </question>
+  </questions>
+</Quizz>
